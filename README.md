@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/pixel-art-github.png">
+  <img width="700" height="200" src="https://github.com/pinkglb/pinkglb/blob/main/Images/pixel-art-github.png">
 </p>
