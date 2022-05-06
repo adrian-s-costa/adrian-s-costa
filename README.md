@@ -8,7 +8,7 @@
 
 hi, I'm Adrian, I'm 18 years old and I'm a student of software engineering at Unicesumar Univesrsity and I attended the first semester of CS at UEMS (state university of mato grosso do sul), I graduated from high school in a Federal Institute (IF) in the course of computer technician
 
-**Languages and tools**
+<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/lang%20n%20tools.png">
 
 <div>
   <img height="30" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
