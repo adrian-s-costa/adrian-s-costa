@@ -1,7 +1,7 @@
 <h2 align="center" size = 30> hi everyone c: </h2>
 
 <p align="center">
-<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/pixel-art-github.png">
+<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/nova-palheta.png">
 </p>
 
 hi, my name is Adrian, I'm 18 years old and I'm a student of software engineering at Unicesumar Univesrsity and I attended the first semester of CS at UEMS (state university of mato grosso do sul), I graduated from high school in a Federal Institute (IF) in the course of computer technician
