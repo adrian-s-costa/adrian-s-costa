@@ -1,4 +1,6 @@
-<h2 align="center" size = 30> hi everyone c: </h2>
+<p align="center" >
+  <img src="https://github.com/pinkglb/pinkglb/blob/main/Icons/title.png"> 
+</p>
 
 <p align="center">
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/nova-palheta.png">
