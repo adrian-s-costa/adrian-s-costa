@@ -11,15 +11,15 @@ hi, I'm Adrian, I'm 18 years old and I'm a student of software engineering at Un
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/lang%20n%20tools.png">
 
 <div>
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/css3.png' alt="CSS">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/javascript.png' alt="Javascript">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-mysql.png' alt="MySql">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/python.png' alt="Python">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/java.png' alt="Java">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/git.png' alt="GIT">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/github.png' alt="Github">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/css3.png' alt="CSS">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/javascript.png' alt="Javascript">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-mysql.png' alt="MySql">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/python.png' alt="Python">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/java.png' alt="Java">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/git.png' alt="GIT">
+  <img height="35" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/github.png' alt="Github">
   
 </div>
 
