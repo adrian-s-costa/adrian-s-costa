@@ -20,3 +20,8 @@ hi, I'm Adrian, I'm 18 years old and I'm a student of software engineering at Un
 </div>
 <br/>
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/contact.png">
+<div>
+<img src="https://img.shields.io/badge/Gmail-aeba89?style=for-the-badge&logo=gmail&logoColor=white" link="https://www.linkedin.com/in/adrian-quid%C3%A1-silvestre-costa-94bb12211/">
+<img src="https://img.shields.io/badge/LinkedIn-aeba89?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<div>
