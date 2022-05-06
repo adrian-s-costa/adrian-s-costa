@@ -14,4 +14,5 @@ hi, my name is Adrian, I'm 18 years old and I'm a student of software engineerin
   <img height="30" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/javascript.png' alt="Javascript">
   <img height="30" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
   <img height="30" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-mysql.png' alt="MySql">
+  <img height="30" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/python.png' alt="Python">
 </div>
