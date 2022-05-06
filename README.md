@@ -9,7 +9,7 @@ hi, my name is Adrian, I'm 18 years old and I'm a student of software engineerin
 **Languages and tools**
 
 <div>
-  <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt="HTML">
+  <img height="30" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
   <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt="CSS">
   <img height="30" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/javascript.png' alt="Javascript">
   <img height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="Php">
