@@ -30,10 +30,10 @@ hi, I'm Adrian, I'm 18 years old and I'm a student of software engineering at Un
 [![Gmail Badge](https://img.shields.io/badge/Gmail-aeba89?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:adriancosta1215@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-aeba89?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/adrian-quid%C3%A1-silvestre-costa-94bb12211/)
 
-**Stats
+<img height = "40" src="https://github.com/pinkglb/pinkglb/blob/main/Images/stats.png">
 
 <div align="center">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkglb&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true" alt="Adrian' most used languages" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinkglb&show_icons=true&count_private=true&theme=202020&bg_color=aeba89&hide_border=true" alt="Adrian' Stats" />
+	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkglb&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020" alt="Adrian' most used languages" />
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pinkglb&show_icons=true&count_private=true&theme=202020&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020" alt="Adrian' Stats" />
 </div>
 
