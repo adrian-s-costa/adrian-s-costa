@@ -24,6 +24,7 @@ hi, I'm Adrian, I'm 18 years old and I'm a student of software engineering at Un
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/css3.png' alt="CSS">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/javascript.png' alt="Javascript">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-nativo-de-reagir-48.png' alt="React">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/sass.png' alt="Sass">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-mysql.png' alt="MySql">
