@@ -8,7 +8,7 @@
 
 hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Unicesumar Univesrsity, I also attended the first semester of CS at UEMS (state university of mato grosso do sul), I graduated from high school in a Federal Institute (IF) in the course of computer technician
 
-<img height = "26" src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning.png">
+<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
 
 <div>
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-java-coffee-cup-50.png' alt="Java">
@@ -18,7 +18,7 @@ hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Un
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/springboot (1).png' alt="SpringBoot">
 </div>
 
-<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/lang-n-tools.png">
+<img height="" src="https://github.com/pinkglb/pinkglb/blob/main/Images/languages-and-tools-new.png">
 
 <div>
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
@@ -35,12 +35,12 @@ hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Un
 </div>
 
 <br/>
-<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/contact.png">
+<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/contact-new.png">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-aeba89?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:adriancosta1215@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-aeba89?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/adrian-quid%C3%A1-silvestre-costa-94bb12211/)
 
-<img height = "40" src="https://github.com/pinkglb/pinkglb/blob/main/Images/stats.png">
+<img height = "40" src="https://github.com/pinkglb/pinkglb/blob/main/Images/stats-new.png">
 
 <div align="center">
 	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkglb&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020" alt="Adrian' most used languages" />
