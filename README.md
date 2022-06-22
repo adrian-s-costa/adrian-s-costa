@@ -18,7 +18,7 @@ hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Un
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/springboot (1).png' alt="SpringBoot">
 </div>
 
-<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/lang%20n%20tools.png">
+<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/lang-n-tools.png">
 
 <div>
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
