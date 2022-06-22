@@ -12,7 +12,7 @@ hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Un
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
 
 <div>
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-java-coffee-cup-50.png' alt="Java">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-java.png' alt="Java">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next.js.png' alt="Next.js">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb(1).png' alt="MongoDB">
