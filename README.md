@@ -7,16 +7,18 @@
 </p>
 
 hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Unicesumar Univesrsity, I also attended the first semester of CS at UEMS (state university of mato grosso do sul), I graduated from high school in a Federal Institute (IF) in the course of computer technician
+<br/>
 
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
 
 <div>
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-java-coffee-cup-50.png' alt="Java">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next-js.256x256 (1).png' alt="Next.js">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb-svgrepo-com-svg (1).png' alt="MongoDB">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next.js.png' alt="Next.js">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb(1).png' alt="MongoDB">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
 </div>
+<br/>
 
 <img height="" src="https://github.com/pinkglb/pinkglb/blob/main/Images/languages-and-tools-new.png">
 
