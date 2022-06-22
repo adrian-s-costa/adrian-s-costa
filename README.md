@@ -11,11 +11,11 @@ hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Un
 <img height = "26" src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning.png">
 
 <div>
-  <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-java-coffee-cup-50.png' alt="Java">
-  <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-node-js-48.png' alt="NodeJS">
-  <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next-js.256x256 (1).png' alt="Next.js">
-  <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb-svgrepo-com-svg (1).png' alt="MongoDB">
-  <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/springboot (1).png' alt="SpringBoot">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-java-coffee-cup-50.png' alt="Java">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-node-js-48.png' alt="NodeJS">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next-js.256x256 (1).png' alt="Next.js">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb-svgrepo-com-svg (1).png' alt="MongoDB">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/springboot (1).png' alt="SpringBoot">
 </div>
 
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/lang%20n%20tools.png">
