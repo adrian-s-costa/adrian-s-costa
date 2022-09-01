@@ -4,7 +4,7 @@
 <img align="left" src="https://github.com/pinkglb/pinkglb/blob/main/Icons/title.png"> <br/><br/>
 
 
-hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Unicesumar Univesrsity, I also attended the first semester of CS at    UEMS (state university of mato grosso do sul), I graduated from high school in a Federal Institute (IF) in the course of computer technician
+hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Unicesumar Univesrsity, I also attended the first semester of CS at UEMS (state university of mato grosso do sul), I graduated from high school in a Federal Institute (IF) in the course of computer technician
 
 <br/>
 
