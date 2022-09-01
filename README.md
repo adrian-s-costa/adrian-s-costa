@@ -1,5 +1,5 @@
 
-<img align="right" width="500" src="https://github.com/pinkglb/pinkglb/blob/main/Images/nova-palheta.png">
+<img align="right" width="400" src="https://github.com/pinkglb/pinkglb/blob/main/Images/nova-palheta.png">
 
 <img align="left" src="https://github.com/pinkglb/pinkglb/blob/main/Icons/title.png"> <br/><br/>
 
