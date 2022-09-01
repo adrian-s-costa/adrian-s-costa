@@ -17,7 +17,7 @@ hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Un
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next.js.png' alt="Next.js">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-typescript-40.png' alt="TypeScript">
+  <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-typescript-40.png' alt="TypeScript">
 </div>
 <br/>
 
