@@ -18,6 +18,7 @@ hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Un
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next.js.png' alt="Next.js">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
   <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-typescript-40.png' alt="TypeScript">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/prisma_logo-freelogovectors.net_-330x400.png' alt="Prisma ORM">
 </div>
 <br/>
 
