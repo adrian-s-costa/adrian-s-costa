@@ -6,17 +6,12 @@
 
 <br/>
 
-
-
-<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
+<img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now.png">
 
 <div>
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-java.png' alt="Java">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next.js.png' alt="Next.js">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
-  <img src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-typescript-40.png' alt="TypeScript">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/prisma_logo-freelogovectors.net_-330x400.png' alt="Prisma ORM">
+	
 </div>
 <br/>
 
@@ -26,7 +21,11 @@
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/css3.png' alt="CSS">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/javascript.png' alt="JavaScript">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/react.png' alt="React">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-java.png' alt="Java">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/sass.png' alt="Sass">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-mysql.png' alt="MySql">
@@ -35,7 +34,17 @@
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb(1).png' alt="MongoDB">
 </div>
 
-<br/>
+<div>
+  </br>
+  <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
+  
+- Fullstack Developer from Driven Education
+- Bachelor's degree in computer engineering (in progress)
+- High school degree in IT from IFMS
+
+</div>
+
+
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/contact-new.png">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-aeba89?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:adriancosta1215@gmail.com)
