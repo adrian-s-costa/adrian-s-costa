@@ -2,7 +2,7 @@
 
 <img align="right" width="380" src="https://github.com/pinkglb/pinkglb/blob/main/Images/nova-palheta.png"> <br/><br/>
 
-<p>hi, I'm Adrian, I'm 19 years old and I'm a student of software engineering at Unicesumar Univesrsity, I also attended the first semester of CS at UEMS (state university of mato grosso do sul), I graduated from high school in a Federal Institute (IF) in the course of computer technician<p>
+<p>I'm Adrian, I'm 19 years old and I'm a student of computer engineering, I got my high school degree in a Federal Institute (IF) in the course of computer technician<p>
 
 <br/>
 
