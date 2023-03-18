@@ -9,7 +9,7 @@
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now.png">
 
 <div>
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/jest.png' alt="Jest">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/jest1.png' alt="Jest">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/prisma_logo-freelogovectors.net_-330x400.png' alt="Prisma ORM">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/next.js.png' alt="Next.js">
 </div>
