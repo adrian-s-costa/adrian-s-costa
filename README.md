@@ -31,7 +31,6 @@ Since then, I've been around! ;)
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/react.png' alt="React">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-java.png' alt="Java">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/sass.png' alt="Sass">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
