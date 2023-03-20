@@ -2,7 +2,14 @@
 
 <img align="right" width="380" src="https://github.com/pinkglb/pinkglb/blob/main/Images/nova-palheta.png"> <br/><br/>
 
-<p>I'm Adrian, I'm 19 years old and I'm a student of computer engineering, I got my high school degree in a Federal Institute (IF) in the course of computer technician<p>
+<p>I'm Adrian! I'm currently studying computer engineering for my bachelor's degree but since I was a teenager I had this fascination about technology, that's why I got my high school degree in a Federal Institute (IF) in the course of computer technician, when I graduated was the first time I realized that I really wanted to follow this technology carrer.</p> 
+Since then, I've been around! ;)
+
+<br/>
+<br/>
+
+- Currently working on **[Driven.t](https://github.com/pinkglb/drivent-testes-boas-praticas)**
+- My lastest project **[Muden](https://github.com/pinkglb/muden-landpage)**
 
 <br/>
 
@@ -48,7 +55,7 @@
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/contact-new.png">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-aeba89?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:adriancosta1215@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-aeba89?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/adrian-quid%C3%A1-silvestre-costa-94bb12211/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-aeba89?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/adrian-costa-94bb12211/)
 
 <img height = "40" src="https://github.com/pinkglb/pinkglb/blob/main/Images/stats-new.png">
 
