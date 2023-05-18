@@ -44,6 +44,7 @@ Since then, I've been around! ;)
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/jest1.png' alt="Jest">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/kafka (1).png' alt="Kafka">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-redis-48 (2).png' alt="Redis">
+  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/tailwind-css (1).png' alt="TailwindCSS">
   <img height="" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/9114856761551941711-128.psd (1).png' alt="Next.js">
   <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/prisma_logo-freelogovectors.net_-330x400.png' alt="Prisma ORM">
   <a target="_blank" href="https://icons8.com/icon/cdYUlRaag9G9/docker">
