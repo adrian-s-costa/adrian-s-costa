@@ -16,39 +16,84 @@ Since then, I've been around! ;)
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now.png">
 
 <div>
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-angularjs-48.png' alt="Angular">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/rabbitmq (1).png' alt="Rabbit MQ">
-  
+  <a target="_blank" href="https://angular.io/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-angularjs-48.png' alt="Angular">
+  </a> 
+  <a target="_blank" href="https://www.rabbitmq.com/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/rabbitmq (1).png' alt="Rabbit MQ">
+  </a>  
 </div>
+
 <br/>
 
 <img height="" src="https://github.com/pinkglb/pinkglb/blob/main/Images/languages-and-tools-new.png">
 
 <div>
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/css3.png' alt="CSS">
-  <img height="45" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-javascript-50.png' alt="JavaScript">
-  <img height="45" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-typescript-50.png' alt="TypeScript">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/react.png' alt="React">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-java.png' alt="Java">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/sass.png' alt="Sass">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-postgreesql-48.png' alt="Postgres">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-mysql.png' alt="MySql">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/file_type_nestjs_icon_130355 (1).png' alt="Nest JS">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/python.png' alt="Python">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/git.png' alt="GIT">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb(1).png' alt="MongoDB">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/jest1.png' alt="Jest">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/kafka (1).png' alt="Kafka">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-redis-48 (2).png' alt="Redis">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/tailwind-css (1).png' alt="TailwindCSS">
-  <img height="" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/9114856761551941711-128.psd (1).png' alt="Next.js">
-  <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/prisma_logo-freelogovectors.net_-330x400.png' alt="Prisma ORM">
-  <a target="_blank" href="https://icons8.com/icon/cdYUlRaag9G9/docker">
-	<img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-docker-48.png' alt="Docker">
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/html5.png' alt="HTML">
+  </a>
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/css3.png' alt="CSS">
+  </a>
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">	
+    <img height="45" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-javascript-50.png' alt="JavaScript">
+  </a>
+  <a target="_blank" href="https://www.typescriptlang.org/">	
+    <img height="45" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-typescript-50.png' alt="TypeScript">
+  </a>
+  <a target="_blank" href="https://react.dev/">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/react.png' alt="React">
+  </a>
+  <a target="_blank" href="https://nodejs.org/en/about">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/nodedotjs.png' alt="NodeJS">
+  </a>
+  <a target="_blank" href="https://nestjs.com/">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/file_type_nestjs_icon_130355 (1).png' alt="Nest JS">
+  </a>
+  <a target="_blank" href="https://dev.java/">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-java.png' alt="Java">
+  </a>
+  <a target="_blank" href="https://spring.io/">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
+  </a>
+  <a target="_blank" href="https://www.php.net/">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
+  </a>
+  <a target="_blank" href="https://www.python.org/">	
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/python.png' alt="Python">
+  </a>
+  <a target="_blank" href="https://git-scm.com/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/git.png' alt="GIT">
+  </a>
+  <a target="_blank" href="https://www.prisma.io/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/prisma_logo-freelogovectors.net_-330x400.png' alt="Prisma ORM">
+  </a>
+  <a target="_blank" href="https://www.postgresql.org/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-postgreesql-48.png' alt="Postgres">
+  </a>
+  <a target="_blank" href="https://www.mysql.com/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-logo-mysql.png' alt="MySql">
+  </a>
+  <a target="_blank" href="https://www.mongodb.com/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/mongodb(1).png' alt="MongoDB">
+  </a>
+  <a target="_blank" href="https://jestjs.io/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/jest1.png' alt="Jest">
+  </a>
+  <a target="_blank" href="https://kafka.apache.org/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/kafka (1).png' alt="Kafka">
+  </a>
+  <a target="_blank" href="https://redis.io/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-redis-48 (2).png' alt="Redis">
+  </a>
+  <a target="_blank" href="https://tailwindcss.com/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/tailwind-css (1).png' alt="TailwindCSS">
+  </a>
+  <a target="_blank" href="https://nextjs.org/">
+    <img height="" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/9114856761551941711-128.psd (1).png' alt="Next.js">
+ </a>
+  <a target="_blank" href="https://docs.docker.com/">
+    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/icons8-docker-48.png' alt="Docker">
   </a>
 </div>
 
