@@ -12,7 +12,15 @@ Since then, I've been around! ;)
 - My lastest project **[Muden](https://github.com/pinkglb/muden-landpage)**
 
 <br/>
+<div>
+  <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
+  
+- Fullstack Developer from Driven Education
+- Bachelor's degree in Computer Engineering (in progress)
+- High school degree in IT from IFMS
 
+</div>
+<br/>
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now.png">
 
 <div>
@@ -97,16 +105,7 @@ Since then, I've been around! ;)
   </a>
 </div>
 
-<div>
-  </br>
-  <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
-  
-- Fullstack Developer from Driven Education
-- Bachelor's degree in computer engineering (in progress)
-- High school degree in IT from IFMS
-
-</div>
-
+<br/>
 
 <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/contact-new.png">
 
