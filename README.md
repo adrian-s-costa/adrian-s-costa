@@ -64,9 +64,6 @@ Since then, I've been around! ;)
   <a target="_blank" href="https://spring.io/">	
     <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/spring.png' alt="SpringBoot">
   </a>
-  <a target="_blank" href="https://www.php.net/">	
-    <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/php.png' alt="Php">
-  </a>
   <a target="_blank" href="https://www.python.org/">	
     <img height="40" src='https://github.com/pinkglb/pinkglb/blob/main/Icons/python.png' alt="Python">
   </a>
