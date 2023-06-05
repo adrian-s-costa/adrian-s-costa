@@ -115,7 +115,7 @@ Since then, I've been around! ;)
 
 <img width=380 src="https://readme-stats-again.vercel.app/api/?username=adrian-s-costa&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&include_all_commits=true&count_private=true"/>
 	
-<img width=400 src="https://readme-stats-again.vercel.app/api/top-langs/?username=adrian-s-costa&langs_count=10&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020&card_width=500"/>
+<img width=417 src="https://readme-stats-again.vercel.app/api/top-langs/?username=adrian-s-costa&langs_count=10&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020&card_width=500"/>
 
 </div>
 
