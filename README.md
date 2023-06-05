@@ -109,12 +109,13 @@ Since then, I've been around! ;)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-aeba89?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adriancosta1215@gmail.com)](mailto:adriancosta1215@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-aeba89?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-costa-94bb12211/)](https://www.linkedin.com/in/adrian-costa-94bb12211/)
 
-<img height = "40" src="https://github.com/pinkglb/pinkglb/blob/main/Images/stats-new.png">
+<img height = "40" src="https://github.com/pinkglb/pinkglb/blob/main/Images/stats-new.png"/>
 
 <div align="center">
-	
-[![Adrian's GitHub stats](https://readme-stats-again.vercel.app/api/?username=adrian-s-costa&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&card_width=500)](https://github.com/adrian-s-costa/readme-stats)
 
-[![Top Langs](https://readme-stats-again.vercel.app/api/top-langs/?username=adrian-s-costa&langs_count=10&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020&card_width=500)](https://github.com/adrian-s-costa/readme-stats)
+<img src="https://readme-stats-again.vercel.app/api/?username=adrian-s-costa&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&include_all_commits=true&count_private=true"/>
+	
+<img align="right" src="https://readme-stats-again.vercel.app/api/top-langs/?username=adrian-s-costa&langs_count=10&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020&card_width=500"/>
 
 </div>
+
