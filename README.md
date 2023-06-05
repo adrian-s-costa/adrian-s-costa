@@ -8,8 +8,8 @@ Since then, I've been around! ;)
 <br/>
 <br/>
 
-- Currently working on **[Driven.t](https://github.com/pinkglb/drivent-testes-boas-praticas)**
-- My lastest project **[Muden](https://github.com/pinkglb/muden-landpage)**
+- Currently working on **[Muden Jobs](https://github.com/adrian-s-costa/muden-jobs)**
+- My lastest project **[Driven.t](https://github.com/adrian-s-costa/drivent-testes-boas-praticas)**
 
 <br/>
 <div>
