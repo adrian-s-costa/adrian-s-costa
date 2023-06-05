@@ -113,8 +113,8 @@ Since then, I've been around! ;)
 
 <div align="center">
 	
-[![pinkglb's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinkglb&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&card_width=500)](https://github.com/pinkglb/github-readme-stats)
+[![Adrian's GitHub stats](https://readme-stats-again.vercel.app/api/?username=adrian-s-costa&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&card_width=500)](https://github.com/adrian-s-costa/readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkglb&langs_count=10&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020&card_width=500)](https://github.com/pinkglb/github-readme-stats)
+[![Top Langs](https://readme-stats-again.vercel.app/api/top-langs/?username=adrian-s-costa&langs_count=10&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020&card_width=500)](https://github.com/adrian-s-costa/readme-stats)
 
 </div>
