@@ -8,10 +8,6 @@ Since then, I've been around! ;)
 <br/>
 <br/>
 
-- Currently working on **[Muden Jobs](https://github.com/adrian-s-costa/muden-jobs)**
-- My lastest project **[Driven.t](https://github.com/adrian-s-costa/drivent-testes-boas-praticas)**
-
-<br/>
 <div>
   <img src="https://github.com/pinkglb/pinkglb/blob/main/Images/learning-now-new.png">
   
