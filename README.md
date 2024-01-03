@@ -108,10 +108,8 @@ Since then, I've been around! ;)
 <img height = "40" src="https://github.com/pinkglb/pinkglb/blob/main/Images/stats-new.png"/>
 
 <div align="center">
-
-<img width=380 src="https://readme-stats-again.vercel.app/api/?username=adrian-s-costa&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&include_all_commits=true&count_private=true"/>
-	
-<img width=417 src="https://readme-stats-again.vercel.app/api/top-langs/?username=adrian-s-costa&langs_count=10&layout=compact&theme=202020-purple&bg_color=aeba89&hide_border=true&title_color=202020&card_width=500"/>
-
+  <img  widht="380px" height="145px" src="https://github-readme-stats.vercel.app/api?username=adrian-s-costa&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&count_private=true"/>
+  <img align="right" widht="417px" height="141px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-s-	 
+  costa&langs_count=10&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&count_private=true&card_width=500&layout=compact"/>
 </div>
 
