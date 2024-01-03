@@ -109,7 +109,6 @@ Since then, I've been around! ;)
 
 <div align="center">
   <img  widht="380px" height="145px" src="https://github-readme-stats.vercel.app/api?username=adrian-s-costa&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&count_private=true"/>
-  <img align="right" widht="417px" height="141px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-s-	 
-  costa&langs_count=10&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&count_private=true&card_width=500&layout=compact"/>
+  <img align="right" widht="417px" height="141px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-s-costa&langs_count=10&show_icons=true&bg_color=aeba89&hide_border=true&icon_color=202020&title_color=202020&count_private=true&card_width=500&layout=compact"/>
 </div>
 
